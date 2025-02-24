@@ -1,0 +1,2 @@
+devpts               /dev/pts             devpts     mode=0620,gid=5       0  0
+tmpfs                /var/volatile        tmpfs      defaults              0  0
